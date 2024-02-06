@@ -3,7 +3,12 @@
 # DONE TILL NOW :
     - create react app
     - tailwind css configured
-    - 
+    - Header component for login page
+    - LoginForm component for login page
+
+
+# Have to do : 
+    - Footer for login page
 
 
 
