@@ -1,10 +1,11 @@
-# Netflix GPT
+# Movieflix GPT -> a replica of netflix
 
 # DONE TILL NOW :
     - create react app
     - tailwind css configured
     - Header component for login page
     - LoginForm component for login page
+    - Project renamed from Netflix GPT to Movieflix GPT
 
 
 # Have to do : 
