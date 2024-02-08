@@ -1,5 +1,5 @@
 import Header from "./Header";
-import LoginForm from "./LoginForm";
+import SignInSignUpForm from "./SignInSignUpForm";
 
 const Login = () => {
   return (
@@ -12,7 +12,7 @@ const Login = () => {
         />
       </div>
       <Header />
-      <LoginForm />
+      <SignInSignUpForm />
     </div>
   );
 };
