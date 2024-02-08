@@ -3,16 +3,19 @@
 # DONE TILL NOW :
     - create react app
     - tailwind css configured
+    - Created Routing of our app useing react-router-dom
     - Header component for login page
     - LoginForm component for login page
     - Project renamed from Netflix GPT to Movieflix GPT
     - Renamed LoginForm component to SignInSignUpForm component
     - created SignInSignUpForm component for Login Page
+    - created ValidateForm component inside utils folder for validating name, email and password
+
 
 
 # Have to do : 
     - Footer for login page
-
+    - firebase CLI install in project on feb 08 2024
 
 
 # Freatures :
