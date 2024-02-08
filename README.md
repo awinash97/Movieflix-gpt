@@ -6,6 +6,8 @@
     - Header component for login page
     - LoginForm component for login page
     - Project renamed from Netflix GPT to Movieflix GPT
+    - Renamed LoginForm component to SignInSignUpForm component
+    - created SignInSignUpForm component for Login Page
 
 
 # Have to do : 
